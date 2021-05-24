@@ -1,0 +1,7 @@
+D:\RepositoriosRenting\BatchProcesator\BatchProcesator\bin\Release\BatchProcesator.exe.config
+D:\RepositoriosRenting\BatchProcesator\BatchProcesator\bin\Release\BatchProcesator.exe
+D:\RepositoriosRenting\BatchProcesator\BatchProcesator\bin\Release\BatchProcesator.pdb
+D:\RepositoriosRenting\BatchProcesator\BatchProcesator\obj\Release\BatchProcesator.csprojAssemblyReference.cache
+D:\RepositoriosRenting\BatchProcesator\BatchProcesator\obj\Release\BatchProcesator.csproj.CoreCompileInputs.cache
+D:\RepositoriosRenting\BatchProcesator\BatchProcesator\obj\Release\BatchProcesator.exe
+D:\RepositoriosRenting\BatchProcesator\BatchProcesator\obj\Release\BatchProcesator.pdb
